@@ -5,6 +5,7 @@ public class Main {
         System.out.println(student);
         System.out.println("d");
         System.out.println("b");
+        System.out.println("Altyn");
 
     }
 }
