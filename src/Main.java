@@ -3,6 +3,8 @@ public class Main {
 
         Student student = new Student("Baytik",20,Gender.MALE);
         System.out.println(student);
+        System.out.println("d");
+        System.out.println("b");
 
     }
 }
